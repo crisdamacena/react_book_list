@@ -17,7 +17,7 @@
 - [ ] Observable React Pattern
 
 <h1 align="center">
-  <img alt="Book List" src="home_book_list.png" />
-  <img alt="Book List" src="home_categories.png" />
-  <img alt="Book List" src="home_notes.png" />
+  <img alt="Book List" src="home_book_list.PNG" />
+  <img alt="Book List" src="home_categories.PNG" />
+  <img alt="Book List" src="home_notas.PNG" />
 </h1>
