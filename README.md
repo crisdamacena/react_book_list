@@ -3,6 +3,7 @@
 <h1 align="center">React Book List</h1>
 
 <p>This is a responsive project inspired by <a href="https://github.com/alura-cursos/1841-react-observable">Formação React Alura</a></p>
+<p>Single page using Class Components in React</a></p>
 
 ### Features
 
